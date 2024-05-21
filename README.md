@@ -1,1 +1,1 @@
-Travel Planner URL : https://travel-planners.netlify.app/
+Travel-Planner URL : https://travel-planners.netlify.app/
